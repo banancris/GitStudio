@@ -31,6 +31,7 @@ public class Main {
                 break;
             default:
                 System.out.println("Вы не ввели оператор!");
+			System.out.println("Выполнение операции закончено.");
 
         }
     }
